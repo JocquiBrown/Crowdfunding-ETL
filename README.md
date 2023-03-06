@@ -1,1 +1,2 @@
 # Crowdfunding-ETL
+- Assisting Independent Funding with a crowdfunding project, by extracting backer contact data from a csv file, transforming the data into a DataFrame, exporting the DataFrame, creating a table schema, loading the data into a PostgreSQL table, and performing various analyses on the information in the table. Specifically, we will be looking at backer counts and the remaining goal amounts for live campaigns.
